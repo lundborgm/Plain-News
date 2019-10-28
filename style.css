@@ -4,5 +4,88 @@
 }
 
 body {
+  background-color: rgb(230, 230, 230);
+  margin: 0 0 100px 0;
+}
+
+header {
+  background-color: rgba(255, 255, 255, 0.89);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+h1 {
+  font-family: 'Futura';
+  color: black;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(230, 230, 230);
+  padding: 0 20px;
+  width: 100%;
+
+}
+
+article {
   background-color: white;
+  color: black;
+  padding: 40px 80px;
+  margin: 40px 10px 10px 10px;
+}
+
+.byLine {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+}
+
+h2 {
+  font-family: 'Futura';
+  font-weight: normal;
+  margin: 0 0 20px 0;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 10px 0;
+}
+
+img {
+  width: 100%;
+}
+
+
+
+
+@media screen and (min-width: 600px) {
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(217, 255, 199);
+    padding: 0 50px;
+    width: 100%;
+  }
+
+
+}
+
+@media screen and (min-width: 1000px) {
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(217, 176, 255);
+    padding: 0 100px;
+    width: 100%;
+  }
+
+
 }
