@@ -4,25 +4,25 @@
 }
 
 body {
-  background-color: rgb(230, 230, 230);
+  background-color: rgb(245, 245, 245);
   margin: 0 0 100px 0;
 }
 
 header {
-  background-color: rgba(255, 255, 255, 0.89);
+  background-color: rgba(245, 245, 245, 0.685);
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 120px;
+  height: 80px;
   width: 100%;
   position: sticky;
   top: 0;
 }
 
 h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: 900;
-  font-size: 40px;
+  font-size: 30px;
   color: black;
 }
 
@@ -37,7 +37,7 @@ hr {
 .container {
   display: flex;
   flex-direction: column;
-  background-color: rgb(230, 230, 230);
+  background-color: rgb(245, 245, 245);
   padding: 0 20px;
   width: 100%;
 }
@@ -45,14 +45,14 @@ hr {
 article {
   background-color: white;
   color: black;
-  padding: 40px 20px;
+  padding: 40px 40px;
   margin: 40px 10px 10px 10px;
   box-shadow: 5px 5px #cacaca;
 }
 
 .byLine {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   font-size: 12px;
 }
 
@@ -61,99 +61,68 @@ article {
 }
 
 h2 {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   font-weight: 700;
-  font-size: 30px;
-  margin: 0 0 20px 0;
+  font-size: 25px;
 }
 
 p {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   padding: 10px 0;
 }
 
-img {
+.articleImg {
   width: 100%;
+  margin: 20px 0;
 }
 
-
-
-/* Extra small devices (phones, 600px and down) */
-/* @media screen and (max-width: 600px) {
-
-} */
-
-
+/* @media quieries */
 
 @media screen and (min-width: 600px) {
-
   .container {
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(217, 255, 199);
     padding: 0 50px;
-    width: 100%;
-  }
-
-  article {
-    background-color: white;
-    color: black;
-    padding: 40px 80px;
   }
 
   .byLine {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
-    font-size: 16px;
+    font-size: 14px;
   }
 
+  header {
+    height: 120px;
+  }
+
+  h1 {
+    font-size: 45px;
+  }
+
+  h2 {
+    font-size: 35px;
+  }
 }
 
-
 @media screen and (min-width: 1000px) {
-
   .container {
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(255, 229, 199);
     padding: 0 100px;
-    width: 100%;
-  }
-
-  article {
-    background-color: white;
-    color: black;
-    padding: 40px 80px;
   }
 
   .byLine {
-    display: flex;
-    justify-content: space-between;
     font-size: 16px;
   }
-
 }
 
 @media screen and (min-width: 1200px) {
-
   .container {
-    display: flex;
-    flex-direction: column;
-    background-color: rgb(217, 176, 255);
     padding: 0 180px;
-    width: 100%;
   }
 
   article {
-    background-color: white;
-    color: black;
-    padding: 40px 80px;
+    padding: 40px 100px;
   }
 
-  .byLine {
-    display: flex;
-    justify-content: space-between;
-    font-size: 16px;
+  h2 {
+    font-size: 40px;
   }
-
 }

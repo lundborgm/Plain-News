@@ -29,8 +29,8 @@ $authors = [
 // Array articles
 $articles = [
     [
-        'title' => 'Rubrik 1',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'Don\'t be foolish, take your doctor\'s advice: Smoke a fresh cigarette',
+        'imgURL' => 'img/joycecigarette.jpg',
         'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
         Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
         listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
@@ -41,8 +41,8 @@ $articles = [
         'likeCounter' => 41,
     ],
     [
-        'title' => 'Rubrik 2',
-        'imgURL' => 'img/1.jpg',
+        'title' => '11 reasons to love Eggo\'s',
+        'imgURL' => 'img/eggo2.jpg',
         'content' => "You shouldn't like things because people tell you you're supposed to. If anyone asks where I am, I've left the country.
         Why do we even need weapons anyway? We have her. You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
         That sounds like a nice night. Why are you keeping this curiosity door lock? Mistakes have been made. Friends don't lie. YOU BETTER RUN!
@@ -55,8 +55,8 @@ $articles = [
         'likeCounter' => 284,
     ],
     [
-        'title' => 'Rubrik 3',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'The grand opening of Starcourt Mall',
+        'imgURL' => 'img/starcourtmall.jpg',
         'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
         We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
         then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
@@ -69,8 +69,8 @@ $articles = [
         'likeCounter' => 59,
     ],
     [
-        'title' => 'Rubrik 4',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'Eyes',
+        'imgURL' => 'img/eyes.jpg',
         'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
         We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
         then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
@@ -83,8 +83,8 @@ $articles = [
         'likeCounter' => 995,
     ],
     [
-        'title' => 'Rubrik 5',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'Hawkins Lab',
+        'imgURL' => 'img/lab.jpg',
         'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
         Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
         listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
@@ -95,8 +95,8 @@ $articles = [
         'likeCounter' => 369,
     ],
     [
-        'title' => 'Rubrik 6',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'How to deal with depression and sadness',
+        'imgURL' => 'img/billy2.jpg',
         'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
         We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
         then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
@@ -109,8 +109,8 @@ $articles = [
         'likeCounter' => 37,
     ],
     [
-        'title' => 'Rubrik 7',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'Eleven about her new job: \'I love working at 7-Eleven, it makes me feel special\'',
+        'imgURL' => 'img/7-Eleven.jpg',
         'content' => "You shouldn't like things because people tell you you're supposed to. If anyone asks where I am, I've left the country.
         Why do we even need weapons anyway? We have her. You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
         That sounds like a nice night. Why are you keeping this curiosity door lock? Mistakes have been made. Friends don't lie. YOU BETTER RUN!
@@ -123,8 +123,8 @@ $articles = [
         'likeCounter' => 98,
     ],
     [
-        'title' => 'Rubrik 8',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'Mike lost his bike: \'This is the worst thing that could ever happen to me\'',
+        'imgURL' => 'img/mike.jpg',
         'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
         Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
         listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
@@ -135,8 +135,8 @@ $articles = [
         'likeCounter' => 100,
     ],
     [
-        'title' => 'Rubrik 9',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'Ice Cream',
+        'imgURL' => 'img/icecream.jpg',
         'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
         Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
         listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
@@ -147,8 +147,8 @@ $articles = [
         'likeCounter' => 56,
     ],
     [
-        'title' => 'Rubrik 10',
-        'imgURL' => 'img/1.jpg',
+        'title' => 'A storm is coming',
+        'imgURL' => 'img/rainy.jpg',
         'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
         We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
         then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.

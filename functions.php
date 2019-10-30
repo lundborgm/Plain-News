@@ -4,7 +4,7 @@ declare(strict_types=1);
 require __DIR__.'/data.php';
 
 /**
- * Function that sorts an array by date.
+ * Function that sorts by date.
  *
  * @param array $a
  * @param array $b

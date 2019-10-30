@@ -30,7 +30,7 @@ usort($articles, 'sortByDate');
 
             <article>
                 <h2> <?php echo $article['title']; ?> </h2>
-                <img src=<?php echo $article['imgURL']; ?> loading=“lazy” alt=““>
+                <img class="articleImg" src=<?php echo $article['imgURL']; ?> loading=“lazy” alt=““>
                 <p> <?php echo $article['content']; ?> </p>
                 <hr />
                 <div class="byLine">
