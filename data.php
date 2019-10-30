@@ -58,7 +58,7 @@ $articles = [
         Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
         'author' => $authors[0]['name'],
         'publishDate' => '2019-10-18',
-        'likeCounter' => 1284,
+        'likeCounter' => 284,
     ],
     [
         'title' => 'Rubrik 3',
@@ -74,7 +74,7 @@ $articles = [
         Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
         'author' => $authors[1]['name'],
         'publishDate' => '2019-10-20',
-        'likeCounter' => 1999,
+        'likeCounter' => 59,
     ],
     [
         'title' => 'Rubrik 4',
@@ -122,7 +122,7 @@ $articles = [
         Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
         'author' => $authors[2]['name'],
         'publishDate' => '2019-10-17',
-        'likeCounter' => 1337,
+        'likeCounter' => 37,
     ],
     [
         'title' => 'Rubrik 7',
