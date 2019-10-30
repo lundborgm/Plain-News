@@ -4,10 +4,11 @@ declare(strict_types=1);
 require __DIR__.'/data.php';
 
 /**
- * Description...bla bla
+ * Function that sorts an array by date.
  *
  * @param array $a
  * @param array $b
+ *
  * @return int
  *
  */

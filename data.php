@@ -6,23 +6,23 @@ declare(strict_types=1);
 $authors = [
     [
         'id' => 1,
-        'name' => 'Mikaela Lundsgård',
+        'name' => 'Winona Ryder',
     ],
     [
         'id' => 2,
-        'name' => 'Jakob Fridmar',
+        'name' => 'David Harbour',
     ],
     [
         'id' => 3,
-        'name' => 'Victor Ljungblad',
+        'name' => 'Natalia Dyer',
     ],
     [
         'id' => 4,
-        'name' => 'Maja Alin',
+        'name' => 'Charlie Heaton',
     ],
     [
         'id' => 5,
-        'name' => 'Julia Karlsson',
+        'name' => 'Finn Wolfhard',
     ],
 ];
 
@@ -31,15 +31,11 @@ $articles = [
     [
         'title' => 'Rubrik 1',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-                    elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-                    Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-                    In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-                    Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-                    Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-                    Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-                    Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-                    Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
+        Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
+        listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
+        Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Friends don't lie. Um, I'm happy you're home.
+        Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[0]['name'],
         'publishDate' => '2019-10-19',
         'likeCounter' => 41,
@@ -47,15 +43,13 @@ $articles = [
     [
         'title' => 'Rubrik 2',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You shouldn't like things because people tell you you're supposed to. If anyone asks where I am, I've left the country.
+        Why do we even need weapons anyway? We have her. You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
+        That sounds like a nice night. Why are you keeping this curiosity door lock? Mistakes have been made. Friends don't lie. YOU BETTER RUN!
+        She's our friend, and she's crazy! He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is!
+        It’s about the shadow monster, isn’t it? You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
+        That sounds like a nice night. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.
+        Why are you keeping this curiosity door lock?",
         'author' => $authors[0]['name'],
         'publishDate' => '2019-10-18',
         'likeCounter' => 284,
@@ -63,15 +57,13 @@ $articles = [
     [
         'title' => 'Rubrik 3',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
+        We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
+        then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
+        You saved me. Do you understand? You saved me. You are such a nerd. No wonder you only hang out with boys. Yeah, I want a date with Bo Derek. We all want things.
+        You’re going to take out the demigorgon with a slingshot? You act like you want me to be your friend and then you treat me like garbage. You're an idiot, Steve Harrington.
+        You're beautiful, Nancy Wheeler. It’s about the shadow monster, isn’t it? Do you know anything about sensory deprivation tanks? Specifically how to build one?
+        Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[1]['name'],
         'publishDate' => '2019-10-20',
         'likeCounter' => 59,
@@ -79,15 +71,13 @@ $articles = [
     [
         'title' => 'Rubrik 4',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
+        We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
+        then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
+        You saved me. Do you understand? You saved me. You are such a nerd. No wonder you only hang out with boys. Yeah, I want a date with Bo Derek. We all want things.
+        You’re going to take out the demigorgon with a slingshot? You act like you want me to be your friend and then you treat me like garbage. You're an idiot, Steve Harrington.
+        You're beautiful, Nancy Wheeler. It’s about the shadow monster, isn’t it? Do you know anything about sensory deprivation tanks? Specifically how to build one?
+        Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[1]['name'],
         'publishDate' => '2019-10-22',
         'likeCounter' => 995,
@@ -95,15 +85,11 @@ $articles = [
     [
         'title' => 'Rubrik 5',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
+        Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
+        listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
+        Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Friends don't lie. Um, I'm happy you're home.
+        Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[2]['name'],
         'publishDate' => '2019-10-21',
         'likeCounter' => 369,
@@ -111,15 +97,13 @@ $articles = [
     [
         'title' => 'Rubrik 6',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
+        We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
+        then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
+        You saved me. Do you understand? You saved me. You are such a nerd. No wonder you only hang out with boys. Yeah, I want a date with Bo Derek. We all want things.
+        You’re going to take out the demigorgon with a slingshot? You act like you want me to be your friend and then you treat me like garbage. You're an idiot, Steve Harrington.
+        You're beautiful, Nancy Wheeler. It’s about the shadow monster, isn’t it? Do you know anything about sensory deprivation tanks? Specifically how to build one?
+        Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[2]['name'],
         'publishDate' => '2019-10-17',
         'likeCounter' => 37,
@@ -127,15 +111,13 @@ $articles = [
     [
         'title' => 'Rubrik 7',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You shouldn't like things because people tell you you're supposed to. If anyone asks where I am, I've left the country.
+        Why do we even need weapons anyway? We have her. You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
+        That sounds like a nice night. Why are you keeping this curiosity door lock? Mistakes have been made. Friends don't lie. YOU BETTER RUN!
+        She's our friend, and she's crazy! He’s a sensitive kid. Lonnie used to say he was queer. Called him a fag. Is he? He’s missing, is what he is!
+        It’s about the shadow monster, isn’t it? You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
+        That sounds like a nice night. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.
+        Why are you keeping this curiosity door lock?",
         'author' => $authors[3]['name'],
         'publishDate' => '2019-10-23',
         'likeCounter' => 98,
@@ -143,15 +125,11 @@ $articles = [
     [
         'title' => 'Rubrik 8',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
+        Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
+        listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
+        Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Friends don't lie. Um, I'm happy you're home.
+        Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[3]['name'],
         'publishDate' => '2019-10-24',
         'likeCounter' => 100,
@@ -159,15 +137,11 @@ $articles = [
     [
         'title' => 'Rubrik 9',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
+        Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
+        listening to the Talking Heads and reading Vonnegut or something. That sounds like a nice night. Mistakes have been made.
+        Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Friends don't lie. Um, I'm happy you're home.
+        Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[4]['name'],
         'publishDate' => '2019-10-16',
         'likeCounter' => 56,
@@ -175,15 +149,13 @@ $articles = [
     [
         'title' => 'Rubrik 10',
         'imgURL' => 'img/1.jpg',
-        'content' => "Ante sint ipsum. Ligula diam non a rhoncus erat. Vivamus eros vitae urna vel vitae vitae a integer
-        elit sollicitudin pretium quisque sapien enim nisl pellentesque laoreet diam habitasse ultrices.
-        Nec suscipit ligula imperdiet ultrices in vestibulum nam tellus. Non nibh a ante est aenean. Diam nibh eu.
-        In eget leo dolor in lectus. Dui nibh odio rutrum semper ut. Lectus justo sit. Nunc risus nullam.
-        Placerat nec sem. Accumsan lectus consectetuer. Leo hendrerit semper natoque urna parturient vehicula amet.
-        Ac varius sit in pellentesque suscipit adipiscing. Felis sit platea. Maecenas aenean torquent pede cras purus.
-        Nec sit ac. Scelerisque egestas dolor. Vel laoreet neque. Ante odio nibh. Integer dui massa aliquam nunc molestie nulla nec facilisi.
-        Aliquam amet tellus autem est curae quis dui felis. Magna odio wisi. Id non ut eget in condimentum elit porta faucibus.
-        Mollis iaculis vel pellentesque adipiscing mauris. Sit nec donec et malesuada lectus.",
+        'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
+        We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
+        then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
+        You saved me. Do you understand? You saved me. You are such a nerd. No wonder you only hang out with boys. Yeah, I want a date with Bo Derek. We all want things.
+        You’re going to take out the demigorgon with a slingshot? You act like you want me to be your friend and then you treat me like garbage. You're an idiot, Steve Harrington.
+        You're beautiful, Nancy Wheeler. It’s about the shadow monster, isn’t it? Do you know anything about sensory deprivation tanks? Specifically how to build one?
+        Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[4]['name'],
         'publishDate' => '2019-10-25',
         'likeCounter' => 72,
