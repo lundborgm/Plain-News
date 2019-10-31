@@ -25,7 +25,7 @@ usort($articles, 'sortByDate');
 
     <div class="container">
 
-
+    <!-- Loops over each item in articles array -->
         <?php foreach ($articles as $article) : ?>
 
             <article>

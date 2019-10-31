@@ -38,7 +38,7 @@ $articles = [
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[0]['name'],
         'publishDate' => '2019-10-19',
-        'likeCounter' => 41,
+        'likeCounter' => 73,
     ],
     [
         'title' => '11 reasons to love Eggo\'s',
@@ -66,11 +66,11 @@ $articles = [
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[1]['name'],
         'publishDate' => '2019-10-20',
-        'likeCounter' => 59,
+        'likeCounter' => 41,
     ],
     [
-        'title' => 'Eyes',
-        'imgURL' => 'img/eyes.jpg',
+        'title' => 'Eleven about her new job: \'I love working at 7-Eleven, it makes me feel special\'',
+        'imgURL' => 'img/7-Eleven.jpg',
         'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
         We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
         then we’ll go crazy together, right? You’re going to take out the demigorgon with a slingshot? Friends don't lie. No... no El, you're not the monster.
@@ -79,11 +79,11 @@ $articles = [
         You're beautiful, Nancy Wheeler. It’s about the shadow monster, isn’t it? Do you know anything about sensory deprivation tanks? Specifically how to build one?
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[1]['name'],
-        'publishDate' => '2019-10-22',
-        'likeCounter' => 995,
+        'publishDate' => '2019-10-23',
+        'likeCounter' => 711,
     ],
     [
-        'title' => 'Hawkins Lab',
+        'title' => 'Deadly chemicals discovered at Hawkins National Laboratory',
         'imgURL' => 'img/lab.jpg',
         'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
         Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
@@ -91,8 +91,8 @@ $articles = [
         Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Friends don't lie. Um, I'm happy you're home.
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[2]['name'],
-        'publishDate' => '2019-10-21',
-        'likeCounter' => 369,
+        'publishDate' => '2019-10-22',
+        'likeCounter' => 266,
     ],
     [
         'title' => 'How to deal with depression and sadness',
@@ -106,11 +106,11 @@ $articles = [
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[2]['name'],
         'publishDate' => '2019-10-17',
-        'likeCounter' => 37,
+        'likeCounter' => 87,
     ],
     [
-        'title' => 'Eleven about her new job: \'I love working at 7-Eleven, it makes me feel special\'',
-        'imgURL' => 'img/7-Eleven.jpg',
+        'title' => 'Video games could cause blindness',
+        'imgURL' => 'img/eyes.jpg',
         'content' => "You shouldn't like things because people tell you you're supposed to. If anyone asks where I am, I've left the country.
         Why do we even need weapons anyway? We have her. You’re going to be home by 8, listening to the Talking Heads and reading Vonnegut or something.
         That sounds like a nice night. Why are you keeping this curiosity door lock? Mistakes have been made. Friends don't lie. YOU BETTER RUN!
@@ -119,7 +119,7 @@ $articles = [
         That sounds like a nice night. Don’t take it so personally, okay? I don’t like most people. He’s in the vast majority.
         Why are you keeping this curiosity door lock?",
         'author' => $authors[3]['name'],
-        'publishDate' => '2019-10-23',
+        'publishDate' => '2019-10-24',
         'likeCounter' => 98,
     ],
     [
@@ -131,11 +131,11 @@ $articles = [
         Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Friends don't lie. Um, I'm happy you're home.
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[3]['name'],
-        'publishDate' => '2019-10-24',
-        'likeCounter' => 100,
+        'publishDate' => '2019-10-25',
+        'likeCounter' => 133,
     ],
     [
-        'title' => 'Ice Cream',
+        'title' => 'Two ice creams a day keeps the doctor away: Strengthens the immune system',
         'imgURL' => 'img/icecream.jpg',
         'content' => "You act like you want me to be your friend and then you treat me like garbage. So, Jonathan, how was the pull-out?
         Let’s burn that lab to the ground. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. You’re going to be home by 8,
@@ -144,10 +144,10 @@ $articles = [
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[4]['name'],
         'publishDate' => '2019-10-16',
-        'likeCounter' => 56,
+        'likeCounter' => 156,
     ],
     [
-        'title' => 'A storm is coming',
+        'title' => '\'Trick or Treat?\' - How to survive the horrible Halloween ritual (hint: don\'t open the door)',
         'imgURL' => 'img/rainy.jpg',
         'content' => "You’re right. You are a freak…. Who would you rather be friends with: Bowie or Kenny Rogers? Bitchin' Yeah, I want a date with Bo Derek.
         We all want things. Mouth-breather. Just wait till we tell Will that Jennifer Hayes was crying at his funeral. Why’s he gotta kick the door? If we’re both going crazy,
@@ -157,7 +157,7 @@ $articles = [
         You're beautiful, Nancy Wheeler. It’s about the shadow monster, isn’t it? Do you know anything about sensory deprivation tanks? Specifically how to build one?
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[4]['name'],
-        'publishDate' => '2019-10-25',
-        'likeCounter' => 72,
+        'publishDate' => '2019-10-21',
+        'likeCounter' => 142,
     ],
 ];
