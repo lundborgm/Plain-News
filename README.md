@@ -41,7 +41,7 @@ Create a news feed in PHP.
 
 ## Testers
 
-Mikaela Lundsgård
+Mikaela Lundsgård<br>
 Bernhard Stedt
 
 ## Code review
