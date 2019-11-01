@@ -1,5 +1,7 @@
 # Stranger News
 
+<img src="https://media.giphy.com/media/xVvox7ASvnyNx8P5g8/giphy.gif" width="100%" height="">
+
 ## Assignment instructions
 
 Create a news feed in PHP.
