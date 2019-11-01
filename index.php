@@ -23,7 +23,7 @@ usort($articles, 'sortByDate');
         <h1>STRANGER NEWS.</h1>
     </header>
 
-    <div class="container">
+    <section>
 
     <!-- Loops over each item in articles array -->
         <?php foreach ($articles as $article) : ?>
@@ -41,8 +41,8 @@ usort($articles, 'sortByDate');
             </article>
 
         <?php endforeach; ?>
-
-    </div>
+    
+    </section>
 
 </body>
 

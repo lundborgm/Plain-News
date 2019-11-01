@@ -38,7 +38,7 @@ $articles = [
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[0]['name'],
         'publishDate' => '2019-10-19',
-        'likeCounter' => 73,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => '11 reasons to love Eggo\'s',
@@ -52,7 +52,7 @@ $articles = [
         Why are you keeping this curiosity door lock?",
         'author' => $authors[0]['name'],
         'publishDate' => '2019-10-18',
-        'likeCounter' => 284,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'The grand opening of Starcourt Mall',
@@ -66,7 +66,7 @@ $articles = [
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[1]['name'],
         'publishDate' => '2019-10-20',
-        'likeCounter' => 41,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'Eleven about her new job: \'I love working at 7-Eleven, it makes me feel special\'',
@@ -80,7 +80,7 @@ $articles = [
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[1]['name'],
         'publishDate' => '2019-10-23',
-        'likeCounter' => 711,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'Deadly chemicals discovered at Hawkins National Laboratory',
@@ -92,7 +92,7 @@ $articles = [
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[2]['name'],
         'publishDate' => '2019-10-22',
-        'likeCounter' => 266,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'How to deal with depression and sadness',
@@ -106,7 +106,7 @@ $articles = [
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[2]['name'],
         'publishDate' => '2019-10-17',
-        'likeCounter' => 87,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'Video games could cause blindness',
@@ -120,7 +120,7 @@ $articles = [
         Why are you keeping this curiosity door lock?",
         'author' => $authors[3]['name'],
         'publishDate' => '2019-10-24',
-        'likeCounter' => 98,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'Mike lost his bike: \'This is the worst thing that could ever happen to me\'',
@@ -132,7 +132,7 @@ $articles = [
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[3]['name'],
         'publishDate' => '2019-10-25',
-        'likeCounter' => 133,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => 'Two ice creams a day keeps the doctor away: Strengthens the immune system',
@@ -144,7 +144,7 @@ $articles = [
         Why do we even need weapons anyway? We have her. You are such a nerd. No wonder you only hang out with boys.",
         'author' => $authors[4]['name'],
         'publishDate' => '2019-10-16',
-        'likeCounter' => 156,
+        'likeCounter' => rand(50, 400),
     ],
     [
         'title' => '\'Trick or Treat?\' - How to survive the horrible Halloween ritual (hint: don\'t open the door)',
@@ -158,6 +158,6 @@ $articles = [
         Hey kiddo, would you like a balloon? I need my paddles! You’re going to take out the demigorgon with a slingshot? Why do we even need weapons anyway? We have her.",
         'author' => $authors[4]['name'],
         'publishDate' => '2019-10-21',
-        'likeCounter' => 142,
+        'likeCounter' => rand(50, 400),
     ],
 ];
